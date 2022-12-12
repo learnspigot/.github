@@ -1,13 +1,12 @@
-# Learnspigot
-Learnspigot is the world's most sold Minecraft course boasting 10,000+ students and a discord server with 3000+ members and a top-standard support team.
+# LearnSpigot
+LearnSpigot is the world's most sold Minecraft course boasting 10,000+ students and a Discord support server with 3,000+ members.
 
 ## What is this?
-This is the official GitHub organization for LearnSpigot projects. You will find our repositories for our bespoke discord server, and plugins powering
-LearnSpigot SMP.
+This is the official GitHub organization for LearnSpigot projects. You will find our repositories for our bespoke Discord server.
 
 ## Links:
 - [Buy Course](https://learnspigot.com)
-- [Discord Server](https://learnspigot.com)
+- [Discord Server](https://learnspigot.com/discord)
 
 ---
-*Learnspigot is a venture of [Virtual Ventures](https://virtualventures.io)*
+*LearnSpigot is a trading name of [Virtual Ventures](https://virtualventures.io)*.
