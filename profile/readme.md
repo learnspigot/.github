@@ -9,4 +9,4 @@ This is the official GitHub organization for LearnSpigot projects. You will find
 - [Discord Server](https://learnspigot.com/discord)
 
 ---
-*LearnSpigot is a trading name of [Virtual Ventures](https://virtualventures.io)*.
+*LearnSpigot is a project by [Flyte](https://flyte.gg)*.
